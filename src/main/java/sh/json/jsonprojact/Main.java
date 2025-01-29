@@ -1,5 +1,6 @@
 package sh.json.jsonprojact;
 
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
